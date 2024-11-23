@@ -1,3 +1,3 @@
 # Deekshith-1
-First repository
+First repository.
 Author - Deekshith Poojary
